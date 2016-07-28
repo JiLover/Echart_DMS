@@ -1,0 +1,32 @@
+{
+  "name": "echart_dms",
+  "version": "1.0.0",
+  "description": "learn how to create all kinds of charts",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --hot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JiLover/Echart_DMS.git"
+  },
+  "keywords": [
+    "echart"
+  ],
+  "author": "jil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JiLover/Echart_DMS/issues"
+  },
+  "homepage": "https://github.com/JiLover/Echart_DMS#readme",
+  "devDependencies": {
+    "coffee-loader": "^0.7.2",
+    "webpack": "^1.13.1",
+    "webpack-dev-server": "^1.14.1"
+  },
+  "dependencies": {
+    "echarts": "^3.2.2",
+    "react": "^15.2.1",
+    "react-dom": "^15.2.1"
+  }
+}
